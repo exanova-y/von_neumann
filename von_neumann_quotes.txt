@@ -1,0 +1,29 @@
+Quotes
+In mathematics you don't understand things. You just get used to them.
+Quoted in G. Zukav The Dancing Wu Li Masters.
+The most vitally characteristic fact about mathematics is, in my opinion, its quite peculiar relationship to the natural sciences, or more generally, to any science which interprets experience on a higher than purely descriptive level.
+By and large it is uniformly true that in mathematics there is a time lapse between a mathematical discovery and the moment it becomes useful; and that this lapse can be anything from 30 to 100 years, in some cases even more; and that the whole system seems to function without any direction, without any reference to usefulness, and without any desire to do things which are useful.
+Anyone who considers arithmetic methods of producing random digits is, of course, in a state of sin.
+Quoted in D MacHale, Comic Sections (Dublin 1993)
+There is an infinite set A that is not too big.
+All stable processes we shall predict. All unstable processes we shall control.
+The sciences do not try to explain, they hardly even try to interpret, they mainly make models. By a model is meant a mathematical construct which, with the addition of certain verbal interpretations, describes observed phenomena. The justification of such a mathematical construct is solely and precisely that it is expected to work.
+It would appear that we have reached the limits of what it is possible to achieve with computer technology, although one should be careful with such statements, as they tend to sound pretty silly in 5 years.
+(Said in 1949)
+There's no sense in being precise when you don't even know what you're talking about.
+If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is.
+"The emphasis on mathematical methods seems to be shifted more towards combinatorics and set theory - and away from the algorithm of differential equations which dominates mathematical physics." (John von Neumann & Oskar Morgenstern, "Theory of Games and Economic Behavior", 1944)
+"The great progress in every science came when, in the study of problems which were modest as compared with ultimate aims, methods were developed that could be extended further and further." (John von Neumann & Oskar Morgenstern, "Theory of Games and Economic Behavior", 1944)
+"[…] mathematics is not an empirical science, or at least that it is practiced in a manner which differs in several decisive respects from the techniques of the empirical sciences." (John von Neumann, "The Mathematician" [in "Works of the Mind" Vol. I, 1947])
+"One expects a mathematical theorem or a mathematical theory not only to describe and to classify in a simple and elegant way numerous and a priori disparate special cases. One also expects ‘elegance’ in its ‘architectural’ structural makeup." (John von Neumann, "The Mathematician" [in "Works of the Mind" Vol. I, 1947])
+“The calculus was the first achievement of modern mathematics and it is difficult to overestimate its importance. I think it defines more unequivocally than anything else the inception of modern mathematics; and the system of mathematical analysis, which is its logical development, still constitutes the greatest technical advance in exact thinking.” (John von Neumann, "The Mathematician" [in "Works of the Mind" Vol. I, 1947])
+"Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number - there are only methods to produce random numbers, and a strict arithmetic procedure of course is not such a method." (John von Neumann, "Various techniques used in connection with random digits", 1951)
+"[...] sciences do not try to explain, they hardly even try to interpret, they mainly make models. By a model is meant a mathematical construct which, with the addition of certain verbal interpretations, describes observed phenomena. The justification of such a mathematical construct is solely and precisely that it is expected to work - that is, correctly to describe phenomena from a reasonably wide area. Furthermore, it must satisfy certain aesthetic criteria - that is, in relation to how much it describes, it must be rather simple." (John von Neumann, "Method in the Physical Sciences", 1955)
+"All stable processes we shall predict. All unstable processes we shall control." (John von Neumann)
+"Much of the best mathematical inspiration comes from experience and that it is hardly possible to believe in the existence of an absolute, immutable concept of mathematical rigor, dissociated from all human experience." (John von Neumann)
+"It must be emphasized that it is not a question of accepting the correct theory and rejecting the false one. It is a matter of accepting that theory which shows greater formal adaptability for a correct extension. This is a formalistic esthetic criterion, with a highly opportunistic flavor." (John von Neumann)
+"Mathematics is not an empirical science, or at least that it is practiced in a manner which differs in several decisive respects from the techniques of the empirical sciences." (John von Neumann)
+"The most vitally characteristic fact about mathematics is, in my opinion, its quite peculiar relationship to the natural sciences, or more generally, to any science which interprets experience on a higher than purely descriptive level."  (John von Neumann)
+"There's no sense in being precise when you don't even know what you're talking about." (John von Neumann)
+"We must regard classical mathematics as a combinatorial game played with symbols." (John von Neumann)
+"When we talk mathematics, we may be discussing a secondary language built on the primary language of the nervous system." (John von Neumann)

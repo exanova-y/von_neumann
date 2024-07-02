@@ -6,9 +6,9 @@ so far we have:
 
 to be added:
 - interview transcript
-von neumann papers and works
-lecture notes
-video transcriptions
-unpublished manuscripts
-Biographies about him
-Accounts from his colleagues and students
+- von neumann papers and works
+- lecture notes
+- video transcriptions
+- unpublished manuscripts
+- Biographies about him
+- Accounts from his colleagues and students

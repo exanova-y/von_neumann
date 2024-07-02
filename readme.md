@@ -2,7 +2,13 @@ von neumann dataset description
 so far we have:
 - biography from book and wiki
 - quotes
-- can we survive technology
+- talk: can we survive technology
+
+caveats:  
+- there are sometimes irregular line spacings (e.g. two line spaces as a book goes to the next page)
+- spaces in the middle of a word
+- there are symbols within the lecture notes
+
 
 to be added:
 - interview transcript

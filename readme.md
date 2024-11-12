@@ -1,4 +1,7 @@
-von neumann dataset description
+von Neumann dataset    
+
+You can use this dataset to create an emulation of von Neumann.   
+
 so far we have:
 - biography from book and wiki
 - quotes
